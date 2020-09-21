@@ -35,7 +35,7 @@
 
 </details>
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/sammitpal2000
+[instagram]: https://instagram.com/sammitpal
+[linkedin]: https://linkedin.com/in/sammitpal2000
 [github]: https://www.github.com/sammitpal2000
