@@ -31,7 +31,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sammitpal2000&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sammit's Github Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=sammitpal2000&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sammitpal2000&repo=sammitpal2000.github.io&theme=radical" />
 
 </details>
 
