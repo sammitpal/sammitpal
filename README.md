@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Sammit's Github Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=sammitpal2000&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sammit's Github Status" src="https://github-readme-kappa.vercel.app/api?username=sammitpal2000&show_icons=true&hide_border=true" />
 </details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammitpal2000&layout=compact)]
 
