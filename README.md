@@ -1,6 +1,6 @@
-### Hi there, I'm Sammit 👋
+# Hi there, I'm Sammit 👋
 
-## I'm a Developer and an Engineer!
+### I'm a Developer and an Engineer!
 
 - 🌱 I’m currently learning everything 😎
 - 🥅 2020 Goals: Contribute more to Open Source projects
