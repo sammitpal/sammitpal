@@ -1,6 +1,6 @@
 # Hi there, I'm Sammit 👋
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
+  <img src="https://komarev.com/ghpvc/?username=sammitpal2000" alt="sammitpal2000" /> 
 </p>
 
 ### I'm a Developer and an Engineer!
