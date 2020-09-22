@@ -18,17 +18,17 @@
 <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
 <br />
 <br />
-
 ### Programming Languages
 <img align="left" alt="Python" src="https://img.icons8.com/ios-glyphs/50/000000/python.png" />
-<img aling="left" alt="JAVA"src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" />
-
+<img align="left" alt="JAVA" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="C" src="https://img.icons8.com/color/50/000000/c-programming.png" />
+<img align="left" alt="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 <br/>
 <br/>
 
 ### Database
 
-<img align="left" alt = "Firebase" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" alt = "Firebase" src="https://img.icons8.com/color/50/000000/firebase.png"/>
 <img align="left" alt = "MySQL" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 
 <br/>
