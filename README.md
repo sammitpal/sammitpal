@@ -2,7 +2,7 @@
 
 ## I'm a Developer and an Engineer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😎
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop new things
 
