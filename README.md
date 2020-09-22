@@ -25,6 +25,9 @@
 <img align="left" alt = "Firebase" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img align="left" alt = "MySQL" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 
+<br/>
+<br/>
+
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
