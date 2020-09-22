@@ -33,7 +33,7 @@
   :zap: Github Stats
 
   <img align="left" alt="Sammit's Github Status" src="https://github-readme-stats.vercel.app/api?username=sammitpal2000&show_icons=true&hide_border=true&theme=dracula" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammitpal2000&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammitpal2000&theme=dracula&layout=compact" />
 
 
 [twitter]: https://twitter.com/sammitpal2000
