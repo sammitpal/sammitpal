@@ -28,11 +28,11 @@
 <!--END_SECTION:activity-->
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
+
+  :zap: Github Stats
 
   <img align="left" alt="Sammit's Github Status" src="https://github-readme-stats.vercel.app/api?username=sammitpal2000&show_icons=true&hide_border=true" />
-</details>
+
 
 [twitter]: https://twitter.com/sammitpal2000
 [instagram]: https://instagram.com/sammitpal
