@@ -1,1 +1,1 @@
-<a href = "https://sammitpal2000.github.io/myWebsite/">
+<img src = "https://sammitpal2000.github.io/myWebsite/" />
