@@ -47,9 +47,9 @@
 ### Connect with me:
 
 [<img src="https://img.icons8.com/android/24/1DA1F2/twitter.png"/>][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://img.icons8.com/android/24/2867B2/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>][github]
+[<img align="left" src="https://img.icons8.com/material-sharp/24/C0C0C0/github.png"/>][github]
 
 <br />
 
