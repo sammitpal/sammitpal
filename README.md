@@ -62,6 +62,6 @@
 
 
 [twitter]: https://twitter.com/sammitpal2000
-[instagram]: https://instagram.com/sammitpal
+[instagram]: https://instagram.com/sammit_pal2000
 [linkedin]: https://linkedin.com/in/sammitpal2000
 [github]: https://www.github.com/sammitpal2000
